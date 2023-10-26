@@ -13,9 +13,9 @@ function App() {
 
   return (
     <>
-      <DisplayJsx />
+      <ShowHideElement />
+      {/* <DisplayJsx /> */}
       {/* <ArrayOfUsers /> */}
-      {/* <ShowHideElement /> */}
       {/* <TwoWayDataBinding /> */}
       {/* <ConditionalDisbaleButton /> */}
       {/* <UpdateParentSate /> */}

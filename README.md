@@ -1,27 +1,15 @@
-# React + TypeScript + Vite
+# React Coding Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+প্রজেক্ট ক্লোনঃ
 
-Currently, two official plugins are available:
+git clone https://github.com/sunam007/react-coding-challenge.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+গিটহাব থেকে রিপোজিটরি ক্লোন করার পর 
 
-## Expanding the ESLint configuration
+- প্রজেক্ট ইন্সটলঃ npm install
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- প্রজেক্ট রানঃ npm run dev
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- App.tsx ফাইল এর ভেতর ১০ টা কম্পনেন্ট কমেন্ট করা আছে । একটা কম্পনেন্ট মানে একটা চ্যালেঞ্জ।
+ কি করতে হবে তা  ইন্সট্রাকশন আকারে  কম্পনেন্ট এর ভেতরে কমেন্ট করে দেওয়া আছে । 
+ একেক টা কম্পনেন্ট আনকমেন্ট করতে হবে , তারপর সেটার ভেতর ইন্সট্রাকশন অনুযায়ী কাজ করতে হবে । 

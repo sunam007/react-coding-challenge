@@ -5,7 +5,8 @@
 const TwoWayDataBinding = () => {
     return (
         <>
-        <input type="text" placeholder="Enter Text" />
+        <input type="text" placeholder="Enter your name" />
+        {/* show your name in this p tag */}
         <p></p>
       </>
     );
